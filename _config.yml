@@ -2,7 +2,7 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
 title: [KOFI!]
-logo: docs/assets/9EB94EF5-CAB6-4143-8433-32BD79F6A838.jpg
+logo: docs/assets/IMG_1731.jpg
 description: An archive of all mixes/performances in New York City.
 show_downloads: false
 google_analytics:
