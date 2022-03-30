@@ -13,35 +13,18 @@ I have a mix series called GTA Radio, where I mix anything and everything you co
 
 [GTA RADIO MIX #1](https://soundcloud.com/fatherkofi/gta-radio-mix-1?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
 
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+## Past performances
+- Current resident on Halfmoon Radio [(@halfmoonbk)](https://www.halfmoonbk.com/)
+- Past resident on WBAR Radio (Barnard Colleges only freeform radio)
+- Studio 151 (Nublu Upstairs)
+- Mykonos Blu
+- Il Bastardo
+- Rumpus Room
+- Resident DJ for Sigma Phi Epsilon fraternity
+- 
+### Contact & Socials
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+- **Ig:** [@fatherkofi](https://www.instagram.com/fatherkofi/)
+- **Soundcloud:** [fatherkofi](https://soundcloud.com/fatherkofi/)
+- **Email:** kofi[dot]meighan[at]gmail[dot]com
 ```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kofimeighan/fatherkofi/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
