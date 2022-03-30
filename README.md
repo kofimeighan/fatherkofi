@@ -1,5 +1,8 @@
 ## Welcome to GitHub Pages
 
+From West palm Beach, Florida I am a current student at Columbia University studying Computer Science and Electrical Engineering interested in bringing unique mixes of hip-hop, r&b, soul, vapor trap, pluggnb, and so many more genres to the streets of New York City. This page is comprised of all my archived mixes and performances.
+
+
 You can use the [editor on GitHub](https://github.com/kofimeighan/fatherkofi/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
