@@ -17,6 +17,7 @@ I have a mix series called GTA Radio, where I mix anything and everything you co
 - Current resident on Halfmoon Radio [(@halfmoonbk)](https://www.halfmoonbk.com/)
 - Past resident on WBAR Radio (Barnard Colleges only freeform radio)
 - Studio 151 (Nublu Upstairs)
+- Madame X
 - Mykonos Blu
 - Il Bastardo
 - Rumpus Room
