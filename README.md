@@ -2,10 +2,17 @@
 
 From West palm Beach, Florida I am a current student at Columbia University studying Computer Science and Electrical Engineering interested in bringing unique mixes of hip-hop, r&b, soul, vapor trap, pluggnb, and so many more genres to the streets of New York City. This page is comprised of all my archived mixes and performances.
 
+# Mixes
+I have a mix series called GTA Radio, where I mix anything and everything you could possibly find on the radio stations of GTA.
 
-You can use the [editor on GitHub](https://github.com/kofimeighan/fatherkofi/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+[GTA RADIO MIX #4](https://soundcloud.com/fatherkofi/gta-radio-mix-4?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[GTA RADIO MIX #3](https://soundcloud.com/fatherkofi/gta-radio-mix-3?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
+
+[GTA RADIO MIX #2](https://soundcloud.com/fatherkofi/gta-radio-mix-2?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
+
+[GTA RADIO MIX #1](https://soundcloud.com/fatherkofi/gta-radio-mix-1?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
+
 
 ### Markdown
 
