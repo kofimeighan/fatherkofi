@@ -14,8 +14,8 @@ I have a mix series called GTA Radio, where I mix anything and everything you co
 [GTA RADIO MIX #1](https://soundcloud.com/fatherkofi/gta-radio-mix-1?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
 
 ## Past performances
-- Current resident on Halfmoon Radio [(@halfmoonbk)](https://www.halfmoonbk.com/)
-- Past resident on WBAR Radio (Barnard Colleges only freeform radio)
+- Current radio resident on Halfmoon Radio presenting Glasshouse Radio on the last Friday of every months from 6-7 PM [(halfmoonbk.com](https://www.halfmoonbk.com/) / [@halfmoonbk)](https://www.instagram.com/halfmoonbk/)
+- Past resident on WBAR Radio (Barnard College's only freeform radio)
 - Studio 151 (Nublu Upstairs)
 - Madame X
 - Mykonos Blu
