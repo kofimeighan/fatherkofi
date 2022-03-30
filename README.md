@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## KOFI!
 
 From West palm Beach, Florida I am a current student at Columbia University studying Computer Science and Electrical Engineering interested in bringing unique mixes of hip-hop, r&b, soul, vapor trap, pluggnb, and so many more genres to the streets of New York City. This page is comprised of all my archived mixes and performances.
 
