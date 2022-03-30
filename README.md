@@ -1,6 +1,6 @@
 ## KOFI!
 
-From West palm Beach, Florida I am a current student at Columbia University studying Computer Science and Electrical Engineering interested in bringing unique mixes of hip-hop, r&b, soul, vapor trap, pluggnb, and so many more genres to the streets of New York City. This page is comprised of all my archived mixes and performances.
+From West palm Beach, Florida I am a currently a student at Columbia University studying Computer Science and Electrical Engineering. I'm interested in bringing unique mixes of hip-hop, r&b, soul, vapor trap, pluggnb, and so many more genres to the streets of New York City. This page is a musical journal of all my archived mixes and performances.
 
 # Mixes
 I have a mix series called GTA Radio, where I mix anything and everything you could possibly find on the radio stations of GTA.
