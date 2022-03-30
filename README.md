@@ -24,8 +24,8 @@ I have a mix series called GTA Radio, where I mix anything and everything you co
 
 
 ### Contact & Socials
-``markdown
+```
 - **Ig:** [@fatherkofi](https://www.instagram.com/fatherkofi/)
 - **Soundcloud:** [fatherkofi](https://soundcloud.com/fatherkofi/)
 - **Email:** kofi[dot]meighan[at]gmail[dot]com
-``
+```
