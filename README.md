@@ -21,10 +21,11 @@ I have a mix series called GTA Radio, where I mix anything and everything you co
 - Il Bastardo
 - Rumpus Room
 - Resident DJ for Sigma Phi Epsilon fraternity
-- 
+
+
 ### Contact & Socials
-```markdown
+``markdown
 - **Ig:** [@fatherkofi](https://www.instagram.com/fatherkofi/)
 - **Soundcloud:** [fatherkofi](https://soundcloud.com/fatherkofi/)
 - **Email:** kofi[dot]meighan[at]gmail[dot]com
-```
+``
