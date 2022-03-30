@@ -23,10 +23,8 @@ I have a mix series called GTA Radio, where I mix anything and everything you co
 - Rumpus Room
 - Resident DJ for Sigma Phi Epsilon fraternity
 
-
 ### Contact & Socials
-```
-- **Ig:** [@fatherkofi](https://www.instagram.com/fatherkofi/)
-- **Soundcloud:** [fatherkofi](https://soundcloud.com/fatherkofi/)
-- **Email:** kofi[dot]meighan[at]gmail[dot]com
-```
+- Ig: [@fatherkofi](https://www.instagram.com/fatherkofi/)
+- Twitter: [@kofimoto](https://twitter.com/kofimoto)
+- Soundcloud: [fatherkofi](https://soundcloud.com/fatherkofi/)
+- Email: kofi[dot]meighan[at]gmail[dot]com
