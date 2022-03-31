@@ -1,5 +1,3 @@
-## KOFI!
-
 From West palm Beach, Florida I am a currently a student at Columbia University studying Computer Science and Electrical Engineering. I'm interested in bringing unique mixes of hip-hop, r&b, soul, vapor trap, pluggnb, and so many more genres to the streets of New York City. This page is a musical journal of all my archived mixes and performances.
 
 # Mixes
