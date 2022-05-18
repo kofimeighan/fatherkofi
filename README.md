@@ -13,6 +13,8 @@ I have a mix series called GTA Radio, where I mix anything and everything you co
 - Current radio resident on Halfmoonbk presenting Glasshouse Radio on the last Friday of every month from 6-7 PM [(halfmoonbk.com](https://www.halfmoonbk.com/) / [@halfmoonbk)](https://www.instagram.com/halfmoonbk/)
 - Past resident on WBAR Radio (Barnard College's only freeform radio)
 - Studio 151 (Nublu Upstairs)
+- House of Yes
+- Kind Regards
 - Madame X
 - Mykonos Blu
 - Il Bastardo
